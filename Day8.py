@@ -16,8 +16,11 @@ print(z)
 a = re.sub("India", "Bharat", txt)
 print(a)
 
-b = re.findall("hi..y", txt)
+b = re.sub("\s", "_", txt)
 print(b)
+
+c = re.findall("hi..y", txt)
+print(c)
 """
 
 """
