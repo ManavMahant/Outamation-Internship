@@ -26,5 +26,5 @@ python filename.py
 
 ## 🧑‍💻 Author
 
-Raj Rathva  
+Manav Mahant 
 Python Intern  
